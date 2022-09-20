@@ -2409,15 +2409,11 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 6d61d4dd-f830-4706-ba3d-fbb75b1c9798)
   )
-<<<<<<< HEAD
-  (wire (pts (xy 236.22 52.07) (xy 236.22 53.34))
-=======
   (wire (pts (xy 193.04 69.85) (xy 193.04 67.31))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 6db59207-5bee-4710-b37a-7f0a8184f1e4)
   )
   (wire (pts (xy 236.22 52.07) (xy 236.22 55.88))
->>>>>>> origin/main
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 6e973f3d-668a-42cb-81a7-48687adf04a4)
   )
